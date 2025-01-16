@@ -1,3 +1,4 @@
+![logo](https://github.com/HarshanaLK/Harshanasri/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Oshadha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
